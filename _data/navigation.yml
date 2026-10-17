@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Home"
+    url: "/"
+
+  - title: "Honors and Awards"
+    url: "/honors/"
+
+  - title: "Projects"
+    url: "/projects/"
+
+  - title: "Collaborators"
+    url: "/collaborators/"
