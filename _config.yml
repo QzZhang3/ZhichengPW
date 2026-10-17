@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Zhicheng Zhang"
 description              : ""
-repository               : "QzZhang3/Zhicheng"
+repository               : "QzZhang3/ZhichengPW"
 url                      : "https://qzzhang3.github.io"
-baseurl                  : "/Zhicheng"
+baseurl                  : "/ZhichengPW"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
